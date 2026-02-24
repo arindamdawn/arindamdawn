@@ -10,8 +10,8 @@
 
 ## 🔭 What I'm Working On
 
-- **SchemaSentry** - Auto-generate structured data for Google Search, ChatGPT, and Claude [[8]]
-- **Angular Libraries** - Customized Angular components and utilities [[13]]
+- **SchemaSentry** - Auto-generate structured data for Google Search, ChatGPT, and Claude
+- **Angular Libraries** - Customized Angular components and utilities
 
 ---
 
@@ -32,7 +32,7 @@
 
 ## 💡 Philosophy
 
-> *"Learning to Learn and Unlearn!"* [[3]]
+> *"Learning to Learn and Unlearn!"*
 
 I believe in continuous growth through:
 - 📚 Learning new technologies
@@ -43,15 +43,15 @@ I believe in continuous growth through:
 
 ## 📫 Connect With Me
 
-- 📝 **Blog**: [DEV Community](https://dev.to/arindamdawn) [[24]]
-- 💼 **Professional**: [LinkedIn](https://linkedin.com/in/arindamdawn) [[2]]
-- 🏆 **Community**: [C# Corner](https://www.c-sharpcorner.com/members/arindam-dawn) [[7]]
+- 📝 **Blog**: [DEV Community](https://dev.to/arindamdawn)
+- 💼 **Professional**: [LinkedIn](https://linkedin.com/in/arindamdawn)
+- 🏆 **Community**: [C# Corner](https://www.c-sharpcorner.com/members/arindam-dawn)
 
 ---
 
 ## 🏆 Achievements
 
-- ✅ 12+ Years Frontend Engineering Experience [[2]]
+- ✅ 12+ Years Frontend Engineering Experience
 - ✅ 2x Founder
 - ✅ Active Technical Writer
 - ✅ Open Source Contributor
