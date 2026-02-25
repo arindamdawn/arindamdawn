@@ -11,15 +11,16 @@
 ## 🔭 What I'm Working On
 
 - **SchemaSentry** - Auto-generate structured data for Google Search, ChatGPT, and Claude
-- **Angular Libraries** - Customized Angular components and utilities
+- **magic-favicon** - Transform favicons into progress bars, status indicators, and notification badges
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [SchemaSentry](https://github.com/arindamdawn/schema-sentry) | JSON-LD Structured Data Generator | TypeScript, Node.js |
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [SchemaSentry](https://github.com/arindamdawn/schema-sentry) | JSON-LD Structured Data Generator | ⭐ |
+| [magic-favicon](https://github.com/arindamdawn/magic-favicon) | Dynamic favicon status indicators | ⭐ |
 
 ---
 
@@ -34,6 +35,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
+ 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=arindamdawn&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arindamdawn&hide_progress=true&theme=radical)
 
 ## 💡 Philosophy
 
